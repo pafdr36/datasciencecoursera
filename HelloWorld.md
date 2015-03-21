@@ -1,1 +1,4 @@
-## This is a markdown file
+## This is a markdown file!
+* an older version of my datasciencecoursera existed from a previous (interrupted) attempt at the program.
+* all work was redone and is current, but the 'creation dates' are original
+* i opted to not delete the repo and start all over :)
